@@ -1,0 +1,17 @@
+body, html{background-color: #383531; font-family: 'Rosario', sans-serif; font-weight:normal; }
+
+#head1{ text-shadow:none; padding: 0px; margin-left: -20px; color: #464646;   width: 100%;  background: #ffffff; font-weight:normal;}
+
+.update{color:red;}
+
+.ui-header .ui-btn-inner, .ui-footer .ui-btn-inner, .ui-mini .ui-btn-inner {
+font-size: 19.5px;
+padding: .55em 11px .5em;
+}
+
+.ui-btn-text{color:#fff;}
+	
+
+
+
+
